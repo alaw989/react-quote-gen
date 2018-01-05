@@ -1,3 +1,18 @@
 
+body {
+    background: url('chuck.png') no-repeat scroll right top transparent;
+    margin: 0;
+    padding: 0;
+    background-size: 1100px;
+}
 
+.App {
+    width: 650px;
+    text-align: left;
+    padding: 100px 100px 100px 100px;
+}
 
+header {
+    font-size: 10px;
+    font-family: 'Fjalla One', sans-serif;
+}
