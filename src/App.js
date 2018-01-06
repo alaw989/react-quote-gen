@@ -61,7 +61,6 @@ export class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Random Chuck Norris Quote Generator</h1>
         </header>
         <Quote joke={this.state.data} />
         <Button onClick={this.changeQuote}>New Quote</Button>
